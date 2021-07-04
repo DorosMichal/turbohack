@@ -1,6 +1,6 @@
 # turbohack
 ### Problem
-Analizując proces kredytowy zauważyliśmy, że mimo przenoszenia usług bankowych do internetu, aby wziąć kredyt hipoteczny nadal trzeba stawić się w placówce banku na podpisanie umowy. Po konsultacji z prawnikiem udało nam się ustalić, że nie ma przeszkód prawnych aby proces ten odbywał się online. Obecny stan rzeczy wynika głównie z ostrożności banków. Aby mieć pewność co do tożsamości klienta, chcą aby wylegitymował się fizycznym dowodem osobistym, którego autentyczność jest sprawdzana.
+Analizując proces kredytowy zauważyliśmy, że mimo przenoszenia usług bankowych do internetu, aby wziąć kredyt hipoteczny nadal trzeba stawić się w placówce banku na podpisanie umowy. Po konsultacji z prawnikiem udało nam się ustalić, że nie ma przeszkód prawnych aby proces ten odbywał się online, a obecny stan rzeczy wynika głównie z ostrożności banków. Aby mieć pewność co do tożsamości klienta, chcą aby wylegitymował się fizycznym dowodem osobistym, którego autentyczność jest sprawdzana.
 
 ### Koncepcja rozwiązania
 Zachowawczość banków jest uzasadniona - w końcu chodzi tu o duże kwoty. Zauważyliśmy jednak, że dowód sprawdzany jest wiele razy, w szczególności każdy musiał go okazać zakładając konto w oddziale któregokolwiek z banków.<br/>
